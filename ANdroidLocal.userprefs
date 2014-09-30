@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4d0071b84f6011a5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ANdroidLocal/MainActivity.cs">
+    <Files>
+      <File FileName="ANdroidLocal/MainActivity.cs" Line="3" Column="3" />
+      <File FileName="ANdroidLocal/Resources/values/Strings.xml" Line="54" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ANdroidLocal" expanded="True" selected="True">
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+              <Node name="values" expanded="True" />
+              <Node name="values-ar" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ANdroidLocal MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

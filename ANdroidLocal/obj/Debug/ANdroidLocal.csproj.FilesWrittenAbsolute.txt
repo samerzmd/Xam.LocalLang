@@ -1,0 +1,14 @@
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/bin/Debug/ANdroidLocal.dll.mdb
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/bin/Debug/ANdroidLocal.dll
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/bin/Debug/ANdroidLocal.ANdroidLocal.apk
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/android/bin/ANdroidLocal.ANdroidLocal.apk
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/res/layout/main.xml
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/res/values/strings.xml
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/res/drawable/icon.png
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/res/values-ar/strings.xml
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/R.cs.flag
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/bin/Debug/ANdroidLocal.ANdroidLocal-Signed.apk
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/uploadflags.txt
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/ANdroidLocal.dll
+/Users/CubicArt/Projects/ANdroidLocal/ANdroidLocal/obj/Debug/ANdroidLocal.dll.mdb
